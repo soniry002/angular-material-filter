@@ -1,6 +1,6 @@
 # AngularFilter
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3, Node: 8.11.3, NPM: 6.4.1
 
 ## Development server
 
